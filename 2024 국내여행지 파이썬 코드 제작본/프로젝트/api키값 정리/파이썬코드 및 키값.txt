@@ -1,0 +1,70 @@
+BpVxtzDwzsa4CSZDvpfZy9yXrU6uK99e6KZDjAcC
+NcXL5CVzhc9Rz9jbSe9w3wP7en9vVBbeX2ym2640
+L0zbYAYVOt4eYKutCTuWI6GrnSOzK09V1g2TxkUY
+
+계층적 지역 코드 지원:
+
+2자리: 시/도 단위 (예: 11 = 서울특별시)
+
+4-8자리: 시군구 단위 (예: 1111 = 서울 종로구)
+
+10자리: 동/리 단위 (예: 1111010100 = 서울 종로구 청운동)
+
+
+경기도 하위 지역 목록]
+4182000000: 경기도 가평군
+
+-쁘띠프랑스
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=eadf5f3e-81f9-4da8-9346-5eba291ae970&big_category=A02&mid_category=A0203&big_area=31
+자라섬
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=d6acd121-1077-4b20-94f7-512cc975b01c&big_category=A01&mid_category=A0101&big_area=31	
+
+4165000000: 경기도 포천시-포천 산정호수
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=fed74f79-c3f1-4e3b-86f3-244c82c25306&big_category=A02&mid_category=A0202&big_area=31
+
+국립수목원(광릉숲)
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=9c864d2b-3fae-4091-8960-0427e441385b&big_category=A01&mid_category=A0101&big_area=31
+
+4180000000: 경기도 연천군-재인폭포 (한탄강 유네스코 세계지질공원)	
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=88e97014-89a9-4cb2-82d6-71ca09319cbe&big_category=A01&mid_category=A0101&big_area=31	
+연천 호로고루
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=19c090e9-3a91-4bf7-9d3d-aa37eaaff273&big_category=A02&mid_category=A0201&big_area=31
+
+
+4150000000: 경기도 이천시		
+설봉공원
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6ac1281a-cce8-4ae1-b1ee-ff27482a3466&big_category=A02&mid_category=A0202&big_area=31
+덕평공룡수목원
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=52d663a5-064d-4222-adbc-b3104254384c&big_category=A01&mid_category=A0101&big_area=31
+
+4146100000: 경기도 용인시 처인구-호암미술관
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ddceb6ae-7a32-4838-b5d9-7f4d07c8a4c3&big_category=A02&mid_category=A0206&big_area=31
+에버랜드
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=7be6babf-e785-44da-9f4c-f7117f83ab23&big_category=A02&mid_category=A0202&big_area=31
+
+4148000000: 경기도 파주시
+헤이리 예술마을	
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=82d9a397-b8c5-454e-bb71-dff610fb9bb9&big_category=A02&mid_category=A0203&big_area=31
+퍼스트가든	
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=9290abf1-d7ca-4c1d-a4d1-352ec5693726&big_category=A01&mid_category=A0101&big_area=31
+
+4161000000: 경기도 광주시-화담숲	
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=d910e258-111d-43f1-8d29-80f4e80ca92a&big_category=A01&mid_category=A0101&big_area=31	
+팔당물안개공원
+https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=a9b728ea-f910-40b9-8519-9c35957f9ea7&big_category=A02&mid_category=A0202&big_area=31
+
+q: 프로그램 종료
+1. 2617000000: 부산광역시 동구
+2. 2644000000: 부산광역시 강서구
+3. 2671000000: 부산광역시 기장군
+4. 2638000000: 부산광역시 사하구
+5. 2614000000: 부산광역시 서구
+6. 2623000000: 부산광역시 부산진구
+7. 2620000000: 부산광역시 영도구
+8. 2650000000: 부산광역시 수영구
+
+
+
+팀원평가 및 자료 제출 
+프로젝트 완성도 기준
+기말고사 점수는 기말고사 성적 50%에 프로젝트 평가
